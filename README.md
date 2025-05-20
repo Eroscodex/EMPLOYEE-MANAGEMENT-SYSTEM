@@ -1,0 +1,17 @@
+CREATED BY:
+
+KARL NICKO L. ALONDRA AND ALDRICH CORREA
+
+BSIT-2A
+
+FACEBOOK:
+
+https://www.facebook.com/alondra.karl AND https://www.facebook.com/drich.correa
+
+
+ALL STEP:
+
+DOWNLOAD THE ZIP AND ADD NEW FOLDER NAME "FINAL PROJECT" AND COPY PASTE THE FOLDER OF THE "EMS" AND EMS_BACKEND TO WORK PROPERLY THEN GO TO TERMINAL GITBASH AN type "npm install" after that "npm run dev"
+
+
+THANK YOU!
